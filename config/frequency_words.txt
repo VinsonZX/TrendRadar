@@ -16,7 +16,7 @@ chatgpt
 deepseek
 github
 
-中国股票
+中国A股
 +半导体
 +西部证券
 +世纪华通
