@@ -86,6 +86,8 @@ platforms:
     name: "财联社热门"
   - id: "ifeng"
     name: "凤凰网"
+  - id: "weibo"
+    name: "微博"
     
 # === 财经投资类 ===
   - id: "wallstreetcn-hot"
