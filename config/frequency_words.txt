@@ -15,3 +15,10 @@ AI
 chatgpt
 deepseek
 github
+
+中国股票
++半导体
++西部证券
++世纪华通
++ST凯文
++江西铜业
