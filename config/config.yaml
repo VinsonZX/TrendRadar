@@ -97,9 +97,6 @@ platforms:
   - id: "jin10"
     name: "金十财经"
     
-# === 生活类 ===
-  - id: "smzdm"
-    name: "什么值得买"
 
     
 
