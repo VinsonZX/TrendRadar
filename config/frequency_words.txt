@@ -15,10 +15,16 @@ AI
 chatgpt
 deepseek
 github
+grox
+通义千问
 
 中国A股
 +半导体
 +西部证券
++SZ002673
 +世纪华通
++SZ002602
 +ST凯文
++SZ002425
 +江西铜业
++SH600362
